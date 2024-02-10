@@ -1,0 +1,5 @@
+print('Enter sales amount:', end='')
+total_sales = int(input())
+print('Profit Amount: $', end='',)
+annual_profit =(total_sales * .19)
+print(annual_profit)
